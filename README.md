@@ -7,14 +7,14 @@ For the transformation of the TiVA format into timed automata in XTA format for 
 To use this plugin, your installation must fulfil the requirements given in 1. Requirements, and then building the plugin from sources as explained in 2. Building from source, further, some details on the use of the plugin are given in 3. Using the plugin.
 
 
-1. Requirements
+1. Requirements:
 
 To use the TiVA DSL Get the Eclipse IDE for Java and DSL Developers (it has been tested with Eclipse DSL 2020) from the Eclipse IDE Downloads page.
 
 To generate a set of timed automata from the DSL you must install TiVA Core tool, https://github.com/Hariati/TiVA
 
 
-2. Building from source
+2. Building from source:
 
 You can build the plugin on your system and use it as an update site. 
 
@@ -27,7 +27,7 @@ To build the plugin:
 In Eclipse, Help -> Install New Software ... -> Add this local update site : ...\Tiva-DSL
 
 
-3. Using the plugin
+3. Using the plugin:
 
 The plugin is activated once you edit a .tiva file. The first time you use the plugin on a project, the IDE may ask you whether you want to convert it to an XText project. Answer yes.
 
