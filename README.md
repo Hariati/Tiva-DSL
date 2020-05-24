@@ -4,7 +4,7 @@ For an overview of the TiVA project, see https://hariati.github.io/tiva-framewor
 
 For the transformation of the TiVA format into timed automata in XTA format for formal verification, see https://github.com/Hariati/TiVA
 
-To use this plugin, your installation must fulfil the requirements given in 1. Requirements, and then building the plugin from sources as explained in 2. Building from source, further, some details on the use of the plugin are given in 3. Using the plugin.
+To use this plugin, your installation must fulfil the requirements given in "1. Requirements", and then building the plugin from sources as explained in "2. Building from source", further, some details on the use of the plugin are given in "3. Using the plugin".
 
 
 1. Requirements:
